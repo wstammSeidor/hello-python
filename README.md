@@ -4,7 +4,7 @@ This small project is part of my journey to strengthen my programming skills by 
 
 This simple Python script greets the user, generates a random lucky number, and includes a small countdown animation to make the interaction more engaging. It serves as the starting point of my personal software portfolio.
 
-[Software Demo Video](https://www.youtube.com/watch?v=YOUR_VIDEO_LINK)
+[Software Demo Video](https://youtu.be/K8I1tD9kbtA)
 
 # Development Environment
 
